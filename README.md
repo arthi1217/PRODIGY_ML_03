@@ -1,11 +1,20 @@
 # PRODIGY_ML_03
-# Task 3 – Cats vs Dogs Image Classification
+
+# Task 3 – Cats vs Dogs Classification using SVM
 
 ## Objective
-To build a machine learning model that classifies images as either cats or dogs.
+To classify images of cats and dogs using a Support Vector Machine (SVM) model.
 
 ## Description
-This project implements an image classification model to distinguish between cat and dog images using supervised learning techniques.
+This project implements an image classification system that distinguishes between cats and dogs using supervised machine learning. The model is trained on labeled image data and predicts the class of unseen images.
+
+## Files
+-svm_cats_dogs.py – Python script containing the SVM model implementation
+-README.md – Project documentation
+
+## Dataset
+The dataset consists of images of cats and dogs.
+Due to GitHub file upload limitations, the dataset is not included in this repository.
 
 ## Input
 - Images of cats and dogs
@@ -14,4 +23,7 @@ This project implements an image classification model to distinguish between cat
 - Predicted class: Cat or Dog
 
 ## Algorithm
-- Image Classification (Supervised Learning)
+- Support Vector Machine (SVM)
+- Supervised Learning
+
+
